@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Thomas Lavastida"
+title                    : 
 title_separator          : "-"
 name                     : &name "Thomas Lavastida"
 description              : &description "ACO PhD Student at Carnegie Mellon University"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : #tjlavastida
   vine             :
   weibo            :
   xing             :
