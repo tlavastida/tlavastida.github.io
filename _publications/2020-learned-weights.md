@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/202-learned-weights
 excerpt: 'This paper is about developing predictions for online load balancing which are robust to errors'
 date: 2020-1-01
-venue: 'Symposium on Discrete Algorithms (SODA) 2020'
+venue: 'Symposium on Discrete Algorithms (SODA)'
 paperurl: 
 citation: 
 ---

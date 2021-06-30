@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/2019-distributed-hc
 excerpt: 'This paper is about parallel/distributed implementations of Hierarchical Clustering methods'
 date: 2019-9-16
-venue: 'European Conference on Machine Learning (ECML-PKDD) 2019'
+venue: 'European Conference on Machine Learning (ECML-PKDD)'
 paperurl: 
 citation: 
 ---
