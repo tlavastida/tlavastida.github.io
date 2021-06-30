@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Thomas Lavastida"
+  name             : #"Thomas Lavastida"
   avatar           : "professional_pfp.jpg"
   bio              : "Algorithms, Optimization, and Machine Learning"
   location         : 
